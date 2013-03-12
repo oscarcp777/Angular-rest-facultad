@@ -1,0 +1,314 @@
+[
+    {
+        "id": "ANALISIS MATEMATICO II A", 
+        "name": "ANALISIS MATEMATICO II A", 
+        "cod": "6103",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "PROBABILIDAD Y ESTADISTICA A", 
+        "name": "PROBABILIDAD Y ESTADISTICA A", 
+        "cod": "6106",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "MATEMATICA DISCRETA", 
+        "name": "MATEMATICA DISCRETA", 
+        "cod": "6107",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "ALGEBRA II A", 
+        "name": "ALGEBRA II A", 
+        "cod": "6108",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "PROBABILIDAD Y ESTADISTICA B", 
+        "name": "PROBABILIDAD Y ESTADISTICA B", 
+        "cod": "6109",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "ANALISIS MATEMATICO III A", 
+        "name": "ANALISIS MATEMATICO III A", 
+        "cod": "6110",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "ANALISIS MATEMATICO III B", 
+        "name": "ANALISIS MATEMATICO III B", 
+        "cod": "6112",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "ANALISIS MATEMATICO III C", 
+        "name": "ANALISIS MATEMATICO III C", 
+        "cod": "6113",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "MATEMATICA ESPECIAL PARA ING. QUIMICA", 
+        "name": "MATEMATICA ESPECIAL PARA ING. QUIMICA", 
+        "cod": "6114",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "MATEMATICA APLICADA A LA AGRIMENSURA", 
+        "name": "MATEMATICA APLICADA A LA AGRIMENSURA", 
+        "cod": "6115",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }, 
+ {
+        "id": "MATEMATICA PARA INGENIEROS", 
+        "name": "MATEMATICA PARA INGENIEROS", 
+        "cod": "6116",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    },  {
+        "id": "ÁLGEBRA II C", 
+        "name": "ÁLGEBRA II C", 
+        "cod": "6122",
+        "cursos": [
+          
+                           {  "curso": "1",
+                             "profesor": "LORUSSO-BOLIVAR-HOLLISCH-LOREK",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO miercoles 08:00 11:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "2",
+                             "profesor": "PEREZ-CANGA-MIGUEL",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO lunes 14:00 17:00 PC-107", 
+                             "vacantes": "30"
+                          }, 
+                          {  "curso": "3",
+                             "profesor": "CANGA-MIGUEL-GOGNI",
+                             "carreras": "7 9 10", 
+                              "horarios": "TO martes 18:00 21:00 PC-107", 
+                             "vacantes": "30"
+                          }
+                  ]
+    }
+      
+]

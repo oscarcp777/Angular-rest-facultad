@@ -1,0 +1,31 @@
+<!doctype html>
+<html xmlns:ng="http://angularjs.org/" ng:app="myApp">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/app.css"/>
+  <link rel="stylesheet" href="css/form.css"/>
+	<title>FIUBA - Sistema de Inscripci&oacute;n </title>
+	<link rel="stylesheet" type="text/css" href="css/common_2.css" media="all" />
+</head>
+<body >
+<div id="contenedor"> 
+<div > 
+<img src="img/logo_uba.gif"  align="left" width="70" height="70">
+<img src="img/logo_fi.gif" align="right">
+<h4>Facultad de Ingenier&iacute;a - Universidad de Buenos Aires</h4>
+<h4>Sistema de Inscripci&oacute;n</h4>
+</div>
+ <div id="cuerpo"> 
+  <ng:view></ng:view>
+
+  <script src="lib/angular/angular-1.0.0rc7.js" ng:autobind></script>
+  <script src="lib/angular/angular-resource-1.0.0rc7.js" ></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/directives.js"></script>
+  <script src="js/services.js"></script>
+  </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<div>
+	
+	<table align="left" class="table3">
+	<tr>
+	<td >
+     <a target="_top" href="#">Cursos</a>
+	</td>
+	</tr>
+	</table>
+</div>
+<div align="center" >
+	<h2>Inscripciones 2012 - 2° Cuatrimestre</h2>
+	<h2>Consulta de Cursos</h2>
+	<table align="center" class="table3">
+
+		<tr>
+			<td width="60" >
+				<div align="center">c&oacute;digo</div>
+			</td>
+			<td width="395" >
+				<div align="center">Departamento</div>
+			</td>
+		</tr>
+
+		<tr ng:repeat="depto in deptos">
+			<td><a ref="#/departamentos/{{depto._id}}">{{depto.cod}}</a></td>
+			<td><a href="#/departamentos/{{depto._id}}">{{depto.name}}</a></td>
+		</tr>
+	</table>
+	</div>
+</div>

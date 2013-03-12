@@ -1,0 +1,36 @@
+<div>
+	<table align="left" class="table3">
+	<tr>
+	<td >
+     <a target="_top" href="#">Cursos</a>
+	</td>
+	</tr>
+	</table>
+</div>
+<div >
+	<h2>Inscripciones 2012 - 2° Cuatrimestre</h2>
+	<h3>Cursos de la materia {{curso.cod}} {{curso.id}}</h3>
+
+	<table align="center" class="table3">
+		<tr>
+			<td></td>
+			<td >Curso</td>
+			<td >Vacantes</td>
+			<td >Profesor</td>
+			<td >Tipo Día Inicio Fin Aula</td>
+		</tr>
+		<tr ng:repeat="curMat in cursosMateria">
+			<td><input type="radio" name="idcurso" value="1"></td>
+			<td >{{curMat.curso}}</td>
+			<td >{{curMat.vacantes}}</td>
+			<td >{{curMat.profesor}}</td>
+			<td >{{curMat.horarios}}</td>
+			<td >
+		</tr>
+		<tr>
+			<td colspan="5" align="center">
+			<input type="submit"  value="inscribir" class="button">
+			</td>
+		</tr>
+	</table>
+</div>

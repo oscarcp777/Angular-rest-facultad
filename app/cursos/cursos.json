@@ -1,0 +1,98 @@
+[
+    {
+        "age": 0, 
+        "id": "MATEMATICA", 
+        "name": "MATEMATICA", 
+        "cod": "61"
+    }, 
+    {
+        "age": 1, 
+        "id": "FISICA", 
+        "name": "FISICA", 
+        "cod": "62"
+    }, 
+       {
+        "age": 2, 
+        "id": "QUIMICA", 
+        "name": "QUIMICA", 
+        "cod": "63"
+    }, 
+    {
+        "age": 3, 
+        "id": "ESTABILIDAD", 
+        "name": "ESTABILIDAD", 
+        "cod": "64"
+    },     {
+        "age": 4, 
+        "id": "ELECTROTECNIA", 
+        "name": "ELECTROTECNIA", 
+        "cod": "65"
+    }, 
+    {
+        "age": 5, 
+        "id": "ELECTROTECNIA", 
+        "name": "ELECTROTECNIA", 
+        "cod": "66"
+    },     {
+        "age": 6, 
+        "id": "INGENIERIA MECANICA", 
+        "name": "INGENIERIA MECANICA", 
+        "cod": "67"
+    }, 
+    {
+        "age": 7, 
+        "id": "TRANSPORTE", 
+        "name": "TRANSPORTE", 
+        "cod": "68"
+    }, 
+    {
+        "age": 8, 
+        "id": "HIDRAULICA", 
+        "name": "HIDRAULICA", 
+        "cod": "69"
+    }, 
+    {
+        "age": 9, 
+        "id": "AGRIMENSURA", 
+        "name": "AGRIMENSURA", 
+        "cod": "70"
+    }, 
+     {
+        "age": 10, 
+        "id": "GESTION", 
+        "name": "GESTION", 
+        "cod": "71"
+    },  
+    {
+        "age": 11, 
+        "id": "TECNOLOGIA INDUSTRIAL", 
+        "name": "TECNOLOGIA INDUSTRIAL", 
+        "cod": "72"
+    },  
+    {
+        "age": 12, 
+        "id": "INGENIERIA NAVAL", 
+        "name": "INGENIERIA NAVAL", 
+        "cod": "73"
+    },  {
+        "age": 13, 
+        "id": "CONSTRUCCIONES Y ESTRUCTURAS", 
+        "name": "CONSTRUCCIONES Y ESTRUCTURAS", 
+        "cod": "74"
+    },  {
+        "age": 14, 
+        "id": "COMPUTACION", 
+        "name": "COMPUTACION", 
+        "cod": "75"
+    },  {
+        "age": 15, 
+        "id": "INGENIERIA QUIMICA", 
+        "name": "INGENIERIA QUIMICA", 
+        "cod": "76"
+    },  {
+        "age": 16, 
+        "id": "SEGURIDAD DEL TRABAJO Y AMBIENTE", 
+        "name": "SEGURIDAD DEL TRABAJO Y AMBIENTE", 
+        "cod": "77"
+    }
+]
